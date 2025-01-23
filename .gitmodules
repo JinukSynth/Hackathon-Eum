@@ -1,0 +1,3 @@
+[submodule "re-eum"]
+	path = re-eum
+	url = https://github.com/username/re-eum.git
