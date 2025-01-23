@@ -1,5 +1,6 @@
 # Hackathon-Eum
 제 11회 충남 SW 해커톤 대회를 '지정과제 2번'으로 참여했었을 당시, 24시간 동안 작성한 작품 시연용 코드입니다.
+(노션)추가 설명: https://harmonious-sandal-1fa.notion.site/Jinuk-rofile-14ab332ec75480f99cb1c36ff276a195
 
 ## 🛠 기술 스택
 
